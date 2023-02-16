@@ -4,6 +4,29 @@
   
     
     <entry>
+      <title>使用hexo+github搭建博客</title>
+      <link href="/2023/02/16/%E4%BD%BF%E7%94%A8hexo-github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2023/02/16/%E4%BD%BF%E7%94%A8hexo-github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<img src="/2023/02/16/%E4%BD%BF%E7%94%A8hexo-github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/2023-02-16-08-30-38.png" class="">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> 博客 </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test</title>
       <link href="/2023/02/15/test/"/>
       <url>/2023/02/15/test/</url>
@@ -33,9 +56,9 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>archives</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -77,9 +100,9 @@
     
     
     <entry>
-      <title>archives</title>
-      <link href="/archives/index.html"/>
-      <url>/archives/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
